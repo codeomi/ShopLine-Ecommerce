@@ -1,0 +1,9 @@
+.searchBox{
+    width: 100vw;
+    height: 100vh;
+    max-width: 100%;
+    display: flex ;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(0,0,0,0.65);
+}
